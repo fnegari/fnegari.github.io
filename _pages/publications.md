@@ -5,7 +5,7 @@ permalink: /My Artworks/
 author_profile: true
 ---
 
-{% include base_path %}3
+{% include base_path %}
 
 
 
