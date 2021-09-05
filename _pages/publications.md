@@ -10,7 +10,7 @@ author_profile: true
 
 
 
-#*ICE MOUNTAIN
+# ICE MOUNTAIN
 This picture is a result of what I see in the shapes of around me and combination of nathure such as sea which is colored in blue, beach which is yellow, trees that are green, ice Mountain that is at the bottom of paiting which is drew with rapid in shape of sharp blades. I drew this painting with rapid and crayons. All of ideas are mine and only mine, not a copy, there are not any paintings similar to my works.
 
 
