@@ -12,9 +12,9 @@ title                    : "Fatemeh Negari"
 title_separator          : "-"
 name                     : &name "Fatemeh Negari"
 description              : &description "personal description"
-url                      : https://fnegari1380.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fnegari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fnegari1380/fnegari1380.github.io"
+repository               : "fnegari1380/fnegari.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -97,7 +97,7 @@ author:
   flickr            :
   facebook          :
   foursquare        :
-  github            : "fnegari1380"
+  github            : "fnegari"
   google_plus       :
   keybase           :
   instagram         :
@@ -108,7 +108,7 @@ author:
   pinterest         :
   soundcloud        :
   stackoverflow     :
-  mathstackexchange : "388484/k-sadri"
+  mathstackexchange : ""
   steam             :
   tumblr            :
   twitter           : 
