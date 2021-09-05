@@ -21,6 +21,6 @@ jnkdjnjkjdkj.
 <img src= "https://user-images.githubusercontent.com/89829013/131449383-f0479196-ea3e-40b9-b0a4-45b904ccaab5.jpg" width="600" height="600">
 
 > **THE HEART OF THE EARTH:**
-knejkn./n
+knejkn.
 
 <img src= "https://user-images.githubusercontent.com/89829013/131449407-9726c11d-eca2-40bd-a5d9-ab61d20aa297.jpg" width="600" height="600">
