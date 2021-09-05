@@ -6,11 +6,5 @@ main:
   - title: "My Artworks"
     url: /My Artworks/ 
     
-  - title: "Notes"
-    url: /notes/
-    
-  - title: "Problems"
-    url: /problems/
-
   #- title: "Useful Links"
   #  url: /links/
