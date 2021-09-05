@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Artworks\n"
+title: "My Artworks"
 permalink: /My Artworks/
 author_profile: true
 ---
