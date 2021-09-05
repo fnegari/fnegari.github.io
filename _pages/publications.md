@@ -9,7 +9,7 @@ author_profile: true
 
 here are some of my Artworks
 
-![art1](https://user-images.githubusercontent.com/89829013/131449368-81b0757e-6eb1-47a4-9433-2943be577ba8.jpg)
+
 
 
 
@@ -18,3 +18,4 @@ here are some of my Artworks
 
 
 ![art3](https://user-images.githubusercontent.com/89829013/131449407-9726c11d-eca2-40bd-a5d9-ab61d20aa297.jpg)
+![art1](https://user-images.githubusercontent.com/89829013/131449368-81b0757e-6eb1-47a4-9433-2943be577ba8.jpg)
