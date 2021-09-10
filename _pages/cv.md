@@ -39,6 +39,7 @@ Languages
 =====
 * Persian: Native
 * English: advanced (I will have participated in ILETS exam by the end of 2021)
+* Turkish: intermediate
 * French: Basic
 
 Computer Skills
