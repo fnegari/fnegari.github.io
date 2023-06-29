@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * BSc in Ocean engineering, Amirkabir University of Technology, September 2019 until today
-* Salam highschool, 2016 until 2019
+* Salam highschool, High School Diploma, 2016 until 2019
 
 
 
