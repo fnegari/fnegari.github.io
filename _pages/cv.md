@@ -47,7 +47,7 @@ Languages
 
 Computer Skills
 =====
-* I’m familiar with two programing languages: MATLAB and C++
+* I’m familiar with two programing languages: Python, MATLAB, C++
 * I work smoothly with Solidworks CAD
 * I’m comfortable with Ansys CFX and Ansys AQWA
 * I’ve years of experience working with Microsoft Office (Word, Powerpoint, Excel, etc.)
