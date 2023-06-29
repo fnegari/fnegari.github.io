@@ -31,10 +31,6 @@ Work Experience
 * Teaching mathematics & physics privately since 2020
 * Part time Physics Olympiad teacher
 * Mechanical Engineering Design Teacher Assistant, Dr. Mehdi Saeed Kiasat [kiasataut@.aut.ac.ir]  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Semester One 2022
-
-
--Academic-
-------
 * 2020-2021: part time physics olympiad teacher
 
 
