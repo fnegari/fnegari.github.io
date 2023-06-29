@@ -1,4 +1,4 @@
-<pre>
+
 ---
 layout: archive
 title: "CV"
