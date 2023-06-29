@@ -30,7 +30,7 @@ Work Experience
 * Editor of Karan of Polytechnique journal
 * Teaching mathematics & physics privately since 2020
 * Part time Physics Olympiad teacher
-* Mechanical Engineering Design Teacher Assistant, Dr. Mehdi Saeed Kiasat [kiasataut@.aut.ac.ir]                                    Semester One 2022
+* Mechanical Engineering Design Teacher Assistant, Dr. Mehdi Saeed Kiasat [kiasataut@.aut.ac.ir] ,**Semester One 2022**
 
 -Academic-
 ------
