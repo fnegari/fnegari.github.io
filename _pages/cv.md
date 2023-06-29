@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BSc in Ocean engineering, Amirkabir University of Technology  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2019 until today
-* Salam highschool, High School Diploma &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016 until 2019
+* BSc in Ocean engineering, Amirkabir University of Technology, September 2019 until today
+* Salam highschool, High School Diploma, 2016 until 2019
 
 
 
