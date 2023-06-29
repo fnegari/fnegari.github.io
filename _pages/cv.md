@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "CV"
@@ -25,14 +24,14 @@ Awards and Honors
 * (2017) First place in Tehran’s 4th District Photography competition
 * (2021) Distinguished student at Tehran Polytechnique
 
-
+<pre>
 Work Experience
 ======
 * Editor of Karan of Polytechnique journal
 * Teaching mathematics & physics privately since 2020
 * Part time Physics Olympiad teacher
 * Mechanical Engineering Design Teacher Assistant, Dr. Mehdi Saeed Kiasat [kiasataut@.aut.ac.ir]             Semester One 2022
-
+</pre>
 -Academic-
 ------
 * 2020-2021: part time physics olympiad teacher
