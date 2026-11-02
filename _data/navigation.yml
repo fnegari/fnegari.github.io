@@ -3,11 +3,20 @@ main:
   - title: "Portfolio"
     url: /
 
+  - title: "Selected Work"
+    url: /work/
+
+  - title: "Approach"
+    url: /approach/
+
+  - title: "Background"
+    url: /background/
+
   - title: "CV"
     url: /cv/
-    
+
   - title: "My Artworks"
-    url: /My Artworks/ 
-    
+    url: /My Artworks/
+
   #- title: "Useful Links"
   #  url: /links/
