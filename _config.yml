@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Fatemeh Negari"
 title_separator          : "-"
 name                     : &name "Fatemeh Negari"
-description              : &description "personal description"
+description              : &description "Ocean and naval architecture, engineering data analysis, and FRAM research software."
 url                      : https://fnegari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fnegari/fnegari.github.io"
@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name              : "Fatemeh Negari"
-  avatar            : "me.jpeg"
-  bio               : ">> Ocean Engineering @ Amirkabir university of technology (tehran polytechnique)\n>> from Tehran, Iran\n>> I'm a great artist"
+  avatar            : "profile.png"
+  bio               : "Ocean and naval architecture graduate student at Memorial University of Newfoundland. Marine design, engineering data analysis, and FRAM research."
   location          : 
   employer          : 
   pubmed            : 
